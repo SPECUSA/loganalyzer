@@ -13,8 +13,8 @@ Prerequisites
 Installation 
 
 1. Setup hadoop cluster for Log-Analyzer using Log-Analyze-Cluster-Setup
-2.  Build Log-Analyzer application using NetBeans.
-3.  Run jar file to process log files and then generate reports.
-
+2. Build Log-Analyzer application using NetBeans.
+3. Run jar file to process log files and then generate reports.
+4. Use shell scripts to start and stop Hadoop Cluster.Which is in scripts directory.
 
 For more details read Log-Analyzer documentation.
