@@ -17,4 +17,13 @@ Installation
 3. Run jar file to process log files and then generate reports.
 4. Use shell scripts to start and stop Hadoop Cluster.Which is in scripts directory.
 
+Screenshots
+
+ 1. Loganalyzer - Report UI
+ 
+  ![ScreenShot](https://raw.github.com/SPECUSA/loganalyzer/master/docs/loganalyzer.PNG)
+ 
+ 2. Loganalyzer - Hadoop Cluster UI
+
+  ![ScreenShot](https://raw.github.com/SPECUSA/loganalyzer/master/docs/hadoopcluster.PNG)
 For more details read Log-Analyzer documentation.
