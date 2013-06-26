@@ -26,4 +26,6 @@ Screenshots
  2. Loganalyzer - Hadoop Cluster UI
 
   ![ScreenShot](https://raw.github.com/SPECUSA/loganalyzer/master/docs/hadoopcluster.PNG)
+  
+  
 For more details read Log-Analyzer documentation.
